@@ -1,0 +1,9 @@
+.Button{
+    padding: 32px 16px;
+    border: 1.5px var(--delft-blue) solid;
+}
+
+.Button img{
+    width: 100%;
+    object-fit: cover;
+}
